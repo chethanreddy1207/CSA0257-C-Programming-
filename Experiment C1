@@ -22,7 +22,8 @@ res =power(num1,num2);
 printf("\npower of the two numbers is: %d", res);
 return 0;    
 }
-int add(int a, int b){
+int add(int a, int b)
+{
 int sum;
 sum = a + b;
 return sum;
